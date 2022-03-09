@@ -29,7 +29,7 @@ function setup() {
   //bridge = new Base(15, { x: width / 2 - 400, y: height / 2 });
   //jointPoint = new Base(width - 600, height / 2 + 10, 40, 20, "#8d6e63", true);
 
-  bridge = new Bridge(25, { x: width/3 - 555 , y: height / 2 });
+  bridge = new Bridge(40, { x: width/3 - 555 , y: height / 2 });
   jointPoint = new Base(width - 110, height / 2 + 10, 40, 20, "#8d6e63", true);
 
  //bridge = new Base(15, { x: width / 2 - 400, y: height / 2 });
